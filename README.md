@@ -101,7 +101,7 @@ I build VR training simulators for companies that need:
 
 ## 📦 Test Build
 
-To test the framework in action, head over to the [Releases](../../releases) section, download the latest `.apk` file, and install it on your VR headset.
+To test the demo in action, head over to the [Releases](../../releases) section, download the latest `.apk` file, and install it on your VR headset.
 
 ### 🥽 Installation Guide (Meta Quest)
 
