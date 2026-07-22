@@ -99,10 +99,29 @@ I build VR training simulators for companies that need:
 
 ---
 
-## 📦 Build Access
+## 📦 Test Build
 
-The standalone Meta Quest `.apk` build is available on request.
-Reach out via any of the contacts above.
+### 🥽 Installation Guide (Meta Quest)
+
+#### Method 1: SideQuest (Recommended)
+1. Download and install [SideQuest](https://sidequestvr.com/) on your PC/Mac.
+2. Enable **Developer Mode** on your Meta Quest headset (via Meta mobile app).
+3. Connect the headset to your PC via USB and authorize the connection in VR.
+4. In SideQuest, click the **Install APKs from file** icon (folder) in the top right.
+5. Select the downloaded `.apk` file and confirm installation.
+
+#### Method 2: Meta Quest Developer Hub (Official)
+1. Download [Meta Quest Developer Hub (MQDH)](https://developer.oculus.com/downloads/package/meta-quest-developer-hub/).
+2. Enable **Developer Mode** and connect the headset via USB.
+3. Open MQDH, select your device, and navigate to the **Device** tab.
+4. Drag and drop the `.apk` file into the MQDH window or use the **Install APK** button.
+
+#### Method 3: ADB (Command Line)
+1. Ensure ADB is installed and **Developer Mode** is enabled.
+2. Connect the headset via USB and authorize the computer in VR.
+3. Open a terminal in the folder containing the `.apk` and run:
+   ```bash
+   adb install "BaseVR - Fire Extinguisher Demo.apk"
 
 ---
 
