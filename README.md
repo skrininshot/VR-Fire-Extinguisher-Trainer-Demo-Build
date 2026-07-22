@@ -95,6 +95,7 @@ I build VR training simulators for companies that need:
 - [LinkedIn](https://www.linkedin.com/in/egor-fetisov-97a409304/)
 - [Upwork](https://www.upwork.com/freelancers/~011e3a108b65f34052?mp_source=share)
 - Email: `skrininshot.trk@gmail.com`
+- Telegram" `@skrininshot`
 
 ---
 
